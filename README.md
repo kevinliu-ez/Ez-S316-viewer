@@ -1,4 +1,4 @@
-# Ez S316 Viewer
+# Ez S316 Viewer (For Engineering Purpose)
 
 Ez S316 viewer is a lightweight MS Windows application that provides basic functionality to real-time display the depth map and RGB point cloud from the EzRGBD device.
 
