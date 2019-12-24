@@ -12,7 +12,7 @@ Ez S316 viewer is a lightweight MS Windows application that provides basic funct
   * Install the MS Visual C++ Redistributable for Visual Studio 2015. Or you can find the installer [here](https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/Setup/MSVCRedist_x64_VS2015-2017-2019.exe) in the repository.
 
 ## Usage
-The viewer has two modes, 'PREVIEW' and 'POINT_CLOUD' modes. To start the viewer, please run the viewer located at  'EzS316Viewer\EzS316Viewer.exe'. The viewer will be in 'PREVIEW' mode after it started.
+The viewer has two modes, 'Preview' (PREVIEW) and 'Point Cloud' (POINT_CLOUD) modes. To start the viewer, please run the viewer located at  'EzS316Viewer\EzS316Viewer.exe'. The viewer will be in 'PREVIEW' mode after it started.
 
 <p align="center"> 
 <img src="https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/README/Viewer_StateMachine.png">
@@ -20,7 +20,7 @@ The viewer has two modes, 'PREVIEW' and 'POINT_CLOUD' modes. To start the viewer
 
 * Preview mode:
 ![](https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/README/EzS316Viewer.png)
-  * To capture the 3D RGB point cloud of the scene, please short press (<0.5 second) key 'p'. The virtual camera may locate behind the axis mark, pressing 'r' after the windows opened is recommended.
+  * To capture the 3D RGB point cloud of the scene, please short press (<0.5 second) key 'p'. The virtual camera may locate behind the axis mark (the opened window shows only GREEN, BLACK and RED blocks), pressing 'r' after the windows opened is recommended.
   * To exit, please short press (<0.5 second) key 'q'.
 
 * Point Cloud mode:
