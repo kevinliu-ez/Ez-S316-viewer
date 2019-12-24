@@ -11,4 +11,5 @@ Ez S316 viewer is a lightweight MS Windows application that provides basic funct
   * Install the MS Visual C++ Redistributable for Visual Studio 2015. Or you can find the installer [here](https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/Setup/MSVCRedist_x64_VS2015-2017-2019.exe) in the repository.
 
 ## Usage
+![](https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/README/EzS316Viewer.png)
 * 
