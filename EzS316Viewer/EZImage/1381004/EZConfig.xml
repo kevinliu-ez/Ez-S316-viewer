@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<ImageHeight>180</ImageHeight>
+<ImageWidth>240</ImageWidth>
+<ModulationFrequency>100</ModulationFrequency>
+<IntegrationTime>500</IntegrationTime>
+<ChessBoardWidth>7</ChessBoardWidth>
+<ChessBoardHeight>4</ChessBoardHeight>
+<TMVF_FNUM>5</TMVF_FNUM>
+</opencv_storage>
