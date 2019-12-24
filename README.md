@@ -11,23 +11,14 @@ Ez S316 viewer is a lightweight MS Windows application that provides basic funct
   * Install the MS Visual C++ Redistributable for Visual Studio 2015. Or you can find the installer [here](https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/Setup/MSVCRedist_x64_VS2015-2017-2019.exe) in the repository.
 
 ## Usage
-The viewer has two modes, 'Preview' and 'Point Cloud' modes.
+The viewer has two modes, 'Preview' and 'Point Cloud' modes. To start the viewer, please run the viewer located in 'EzS316Viewer\EzS316Viewer.exe'.
+![](https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/README/Viewer_StateMachine.png)
 
-###FlowChart
-
-```flow
-st=>start: Login
-op=>operation: Login operation
-cond=>condition: Successful Yes or No?
-e=>end: To admin
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-
+* Preview mode:
 ![](https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/README/EzS316Viewer.png)
-* Run the viewer located in 'EzS316Viewer\EzS316Viewer.exe'.
 * To capture the 3D RGB point cloud of the scene, please short press (<0.5 second) key 'p'.
+* To exit, please short press (<0.5 second) key 'q'.
+
+* Point Cloud mode:
 * To exit, please short press (<0.5 second) key 'q'.
 
