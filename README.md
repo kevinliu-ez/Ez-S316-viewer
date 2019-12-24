@@ -12,7 +12,7 @@ Ez S316 Viewer is a lightweight MS Windows application that provides basic funct
   * Install the MS Visual C++ Redistributable for Visual Studio 2015. Or you can find the installer [here](https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/Setup/MSVCRedist_x64_VS2015-2017-2019.exe) in the repository.
 
 ## Usage
-The viewer has two modes, 'Preview' (PREVIEW) and 'Point Cloud' (POINT_CLOUD) modes. To start the viewer, please run the application located at 'EzS316Viewer\EzS316Viewer.exe'. The viewer will be in 'PREVIEW' mode after it started.
+The viewer has two modes, 'Preview' (PREVIEW) and 'Point Cloud' (POINT_CLOUD) modes. To start the viewer, please run the application located at 'EzS316Viewer\EzS316Viewer.exe'. The viewer will be in 'Preview' mode after it started.
 
 <p align="center"> 
 <img src="https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/README/Viewer_StateMachine.png">
