@@ -12,4 +12,7 @@ Ez S316 viewer is a lightweight MS Windows application that provides basic funct
 
 ## Usage
 ![](https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/README/EzS316Viewer.png)
-* 
+* Run the viewer located in 'EzS316Viewer\EzS316Viewer.exe'.
+* To capture the 3D RGB point cloud of the scene, please short press (<0.5 second) key 'p'.
+* To exit, please short press (<0.5 second) key 'q'.
+
