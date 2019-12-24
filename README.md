@@ -7,6 +7,7 @@ Ez S316 viewer is a lightweight MS Windows application that provides basic funct
   * Plug the USB DC power supply into a power outlet.
   * Connect a USB 3.0 cable from the EzRGBD device to your MS Windows computer.
   * Connect a USB 2.0 cable from the USB DC power supply to the EzRGBD device.
+  * The current configuration of the device is optimized for static scenes, a tripod is recommened for holding the device.
 * Software
   * Install the MS Visual C++ Redistributable for Visual Studio 2015. Or you can find the installer [here](https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/Setup/MSVCRedist_x64_VS2015-2017-2019.exe) in the repository.
 
