@@ -19,10 +19,10 @@ The viewer has two modes, 'Preview' and 'Point Cloud' modes. To start the viewer
 
 * Preview mode:
 ![](https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/README/EzS316Viewer.png)
-* To capture the 3D RGB point cloud of the scene, please short press (<0.5 second) key 'p'.
-* To exit, please short press (<0.5 second) key 'q'.
+  * To capture the 3D RGB point cloud of the scene, please short press (<0.5 second) key 'p'.
+  * To exit, please short press (<0.5 second) key 'q'.
 
 * Point Cloud mode:
 ![](https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/README/EzS316Viewer_RGBDPtCloud.png)
-* To exit, please short press (<0.5 second) key 'q'.
+  * To exit, please short press (<0.5 second) key 'q'.
 
