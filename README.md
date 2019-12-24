@@ -24,5 +24,7 @@ The viewer has two modes, 'Preview' and 'Point Cloud' modes. To start the viewer
 
 * Point Cloud mode:
 ![](https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/README/EzS316Viewer_RGBDPtCloud.png)
+  * To reset the camera pose, please press 'r'.
+  * To enlarge or decrease the size of points, please press '+' or '-' respectively.
   * To exit, please short press (<0.5 second) key 'q'.
 
