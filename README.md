@@ -12,6 +12,7 @@ Ez S316 viewer is a lightweight MS Windows application that provides basic funct
 
 ## Usage
 The viewer has two modes, 'Preview' and 'Point Cloud' modes. To start the viewer, please run the viewer located in 'EzS316Viewer\EzS316Viewer.exe'.
+
 ![](https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/README/Viewer_StateMachine.png)
 
 * Preview mode:
